@@ -1,0 +1,17 @@
+---
+title: "Hobbies"
+format: html
+---
+
+Mycology: I am just starting to learn how to grow mushrooms and have had my first successful harvest
+
+Video games: I enjoy playing videogames with my friends and I am better at some than others
+
+Music: I love playing music and mainly play guitar but I like to learn new music and instruments
+
+Here is a photo of me playing music:
+
+```{r}
+knitr::include_graphics("singin.png")
+
+```
